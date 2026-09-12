@@ -1,4 +1,4 @@
-package week2;
+package problems.week2;
 
 public class VowelConsonantCounter {
 
